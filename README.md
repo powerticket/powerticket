@@ -17,5 +17,5 @@
 
 ### :grin: Programmer humor 
 
-###### [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
+[![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
 
